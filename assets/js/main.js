@@ -104,7 +104,8 @@ skillsHeader.forEach((el)=>{
     // Redirect to mobile number or Gmail
     var isMobile = /iPhone|iPad|iPod|Android/i.test(navigator.userAgent);
     if (isMobile) {
-      window.location.href = "tel:" + phoneNumber;
+        window.open("tel:" + phoneNumber, "_self");
+      // window.location.href = "tel:" + phoneNumber;
     } else {
       window.location.href = "mailto:" + email;
     }
