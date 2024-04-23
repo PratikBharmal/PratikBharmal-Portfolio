@@ -98,7 +98,7 @@ skillsHeader.forEach((el)=>{
 //   }
 
   function contactMe() {
-    var phoneNumber = "+91 9421180494"; // Replace with your phone number
+    var phoneNumber = "+919421180494"; // Replace with your phone number
     var email = "bharmalpratik97@gmail.com"; // Replace with your Gmail address
   
     // Redirect to mobile number or Gmail
