@@ -694,7 +694,7 @@ img {
 
 /* my code  edit start */
 body {
-  background-color: #fdfaeb; /* Set the background color to white */
+  background-color: #e8fefc; /* Set the background color to white */
   margin: 0; /* Remove default body margin */
   padding: 0; /* Remove default body padding */
 }
@@ -706,10 +706,10 @@ body {
 }
 /* Add this CSS to your stylesheet */
 .nav {
-  background-color: #fdfaeb;
+  background-color: #c9f9fe;
 }
 .l-header {
-  background-color:#fdfaeb ;
+  background-color:#c9f9fe ;
 }
 
 
