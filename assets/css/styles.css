@@ -776,7 +776,7 @@ html:hover {
   width: 100%;
   padding: 1rem; /* Add padding for better readability */
   background-color: rgba(0, 0, 0, 0.5); 
-  transition: opacity 0.8s;
+  transition: background-color 0.6s ease-out, height 0.6s ease-out;
   height: 0;
   overflow: hidden;
   opacity: 0; /* Initially hidden */
