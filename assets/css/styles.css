@@ -20,11 +20,11 @@
 } */
 
 :root{
-  --header-height: 3rem;
+  --header-height: 2rem;
   /*--===============COLORS==========================*/
   /*change favo color*/
   /*purple-250 , green -142, blue-230,pink-340,brown -48*/
-  --hue-color:48 ;
+  --hue-color:197 ;
    
   /*hsl color mode*/
   --first-color:hsl(var(--hue-color), 69%, 61%);
